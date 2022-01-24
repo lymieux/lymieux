@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://raw.githubusercontent.com/moral-g/moral-g/main/gifsmos.gif">
+  <img width="200" height="200" src="https://raw.githubusercontent.com/moral-g/moral-g/main/gifsmos-shaded.gif">
 </p>
 
 <!--
