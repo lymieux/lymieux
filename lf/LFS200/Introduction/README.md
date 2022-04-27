@@ -1,3 +1,3 @@
 ```
-LFS 200 Introduction (Section 1)
+LFS 200 Introduction
 ```
