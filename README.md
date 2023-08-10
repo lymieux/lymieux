@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-moralg640@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:moralg640@gmail.com "Connect via GMail")
 [![Outlook Badge](https://img.shields.io/badge/-gjm5719@psu.edu-c14438?style=flat&logo=Microsoft&logoColor=white)](mailto:gjm5719@psu.edu "Connect via Outlook")
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Morales-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morales/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Morales-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morales-50b683184/ "Connect on LinkedIn")
 [![Instagram Badge](https://img.shields.io/badge/-@moral.gabe-0088CC?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/moral.gabe/ "Contact on Instagram")
 
 <h2>About Me</h2>
