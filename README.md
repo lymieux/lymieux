@@ -1,4 +1,4 @@
-## [Lymieux](https://linktr.ee/lymieux) here 👋🏼👨🏻‍💻
+## [Lymieux (leh-mju)](https://linktr.ee/lymieux) here 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-moralg640@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:moralg640@gmail.com "Connect via GMail")
 [![Outlook Badge](https://img.shields.io/badge/-gjm5719@psu.edu-c14438?style=flat&logo=Microsoft&logoColor=white)](mailto:gjm5719@psu.edu "Connect via Outlook")
