@@ -26,5 +26,4 @@
   <img height="30em" src="https://img.shields.io/badge/conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/wsl-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img height="30em" src="https://img.shields.io/badge/fish-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
