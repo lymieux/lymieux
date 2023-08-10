@@ -18,11 +18,11 @@
 
 <h2>Programs I Commonly Work With</h2>
 <p float="left">
+  <img height="30em" src="https://img.shields.io/badge/vim-11AB00?style=for-the-badge&logo=vim&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/make-FF6F00?style=for-the-badge&logo=gnu&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/cmake-008fba?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img height="30em" src="https://img.shields.io/badge/vim-11AB00?style=for-the-badge&logo=vim&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/wsl-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
