@@ -1,9 +1,9 @@
 ## [Lymieux (leh-mju)](https://linktr.ee/lymieux) here 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-moralg640@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:moralg640@gmail.com "Connect via GMail")
-[![Outlook Badge](https://img.shields.io/badge/-gjm5719@psu.edu-c14438?style=flat&logo=Microsoft&logoColor=white)](mailto:gjm5719@psu.edu "Connect via Outlook")
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Morales-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morales-50b683184/ "Connect on LinkedIn")
-[![Instagram Badge](https://img.shields.io/badge/-@moral.gabe-0088CC?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/moral.gabe/ "Contact on Instagram")
+[![Outlook Badge](https://img.shields.io/badge/-gjm5719@psu.edu-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:gjm5719@psu.edu "Connect via Outlook")
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Morales-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morales-50b683184/ "Connect on LinkedIn")
+[![Instagram Badge](https://img.shields.io/badge/-@moral.gabe-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/moral.gabe/ "Contact on Instagram")
 
 <h2>About Me</h2>
 <p>I remember my friend started coding one day, and to feel 'relevant' I started as well. Little did I know I would love it, and end up enrolling in all the high-school coding classes I could take. I started with Python, but was drawn to more controllable languages like C and C++, especially after learning Java. In my last year of high-school, I started using LaTeX for notes in Calc 3 class, which sparked a new interest. I've always like math library, so I'm trying to make a geometry library and a CAS. 
