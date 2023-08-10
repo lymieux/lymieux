@@ -1,4 +1,4 @@
-<img src=".github/icon.png" align="right" />
+<img src="https://github.com/lymieux/lymieux/blob/main/dotfiles/icon.png" align="right" />
 <h1>
   lymieux's dotfiles
   <a href="https://opensource.org/licenses/mit-license.php"><img alt="MIT Licence" src="https://badges.frapsoft.com/os/mit/mit.svg?v=103" /></a>
@@ -18,3 +18,4 @@ That being said, this is for my WSL installation, which is Arch, but I'm current
 
 Note: All scripts are (MIT licensed)[LICENSE]
 ```
+WAS A REPO. MOVED TO PROFILE REPO
